@@ -1,0 +1,11 @@
+com\ismael\curso\springboot\webapp\springbootweb\controllers\UserController.class
+com\ismael\curso\springboot\webapp\springbootweb\SpringbootWebApplication.class
+com\ismael\curso\springboot\webapp\springbootweb\controllers\HomeController.class
+com\ismael\curso\springboot\webapp\springbootweb\controllers\RequestParamsController.class
+com\ismael\curso\springboot\webapp\springbootweb\ValuesConfig.class
+com\ismael\curso\springboot\webapp\springbootweb\models\dto\UserDto.class
+com\ismael\curso\springboot\webapp\springbootweb\controllers\PathVariableController.class
+com\ismael\curso\springboot\webapp\springbootweb\controllers\UserRestController.class
+com\ismael\curso\springboot\webapp\springbootweb\models\dto\ParamDto.class
+com\ismael\curso\springboot\webapp\springbootweb\models\user.class
+com\ismael\curso\springboot\webapp\springbootweb\models\dto\ParamMixDto.class
